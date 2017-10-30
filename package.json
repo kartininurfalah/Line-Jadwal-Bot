@@ -9,5 +9,8 @@
   },
   "scripts": {
     "start" : "node ."
+  },
+  "engines": {
+    "node" : "8.8.1"
   }
 }
